@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FaltuBlock.aternos.me",
+    "ip": "FaltuBlock.aternos.me:36388",
     "port": 36388,
     "version": "",
     "try-creative": false
