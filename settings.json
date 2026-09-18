@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FluxoriaMCnet.aternos.me",
-    "port": 60581,
+    "ip": "167.235.93.185",
+    "port": 29730,
     "version": "",
     "try-creative": false
   },
