@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FaltuBlock.aternos.me:36388",
-    "port": 36388,
+    "ip": "FluxoriaMCnet.aternos.me",
+    "port": 60581,
     "version": "",
     "try-creative": false
   },
